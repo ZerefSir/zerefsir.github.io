@@ -5,7 +5,7 @@
 3. Git is a free software distributed under the GPL.
 4. Creating a new branch is quick and simple.
 =======
-3. Git is free software distributed under the GPL.
+3. Git is a free software distributed under the GPL.
 4. Creating a new branch is quick AND simple.
 >>>>>>> feature1
 5. Git merge is added.
